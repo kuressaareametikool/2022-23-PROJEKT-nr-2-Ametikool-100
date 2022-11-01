@@ -2,10 +2,10 @@
 
 Eesmärgid:
 
-    tööprotsess/töövõted/töövahendid
-    tiimitöö
-    analüüs/planeerimine
-    GitHub
+    Tööprotsess/töövõted/töövahendid
+    Tiimitöö
+    Analüüs/planeerimine
+    Figma Github
     HTML/CSS/JS
 
 #Tiimid
@@ -23,8 +23,8 @@ Ajakava
     K 12:45 - ...
         12:45 Ülesande tutvustus ruumis K208
         Tiimide moodustamine, ruumi valimine, tutvumine, suhtluskanalite ja töövahendite kokku leppimine ja seadistamine
-        Tiim loob repo, repo link saada Slackis Andrusele
-        Tööülesande valimine, ülesande analüüs ja planeerimine, wireframe koostamine jne
+        Tiim loob repo, repo link saada Slackis Gen-ile
+        Tööülesande analüüs ja planeerimine, wireframe koostamine jne
         Töö käib
 
     N 8:30 - ...
@@ -34,16 +34,21 @@ Ajakava
         9:00 on repo main harus veavaba versioon, mida on võimalik testida
         Töötava lahenduse kokku panek ja viimistlemine, failide upitamine, README faili koostamine, esitluse planeerimine
         Töötava rakenduse link enne esitluste algust Andrusele Slacki
-        12:45 Esitlused K208
+        10:00 Esitlused K208
 
 
 U:lesande püstitus
 
-    Luua hariduslik rakendus või mäng:
-        Maailma riikide lippude õppimine
-        Kella õppimine
-        Tähtede ja numbrite õppimine
-        Morse keele õppimine
+    Luua Ametikoolile portfoolio (Vähemalt 3 lehte):
+        * Tutvustus.
+        * Faktid.
+        * Galerii (Slider/Popup/ or something else).
+        * Kontaktid (Vabalt valitud 10 töötajat).
+        * Google maps location (Google maps API).
+        
+        *Figma + toimiv proto.
+        *Github ReadMe/Wiki.
+        *Issue Board
 
 
 Rollid
@@ -52,12 +57,12 @@ Rollid
         Idee välja töötamine ja analüüs
         Dokumenteerimine ja projekti haldamine
         Testimine
-    Kursus - TA-22
+    Kursus - TAk-22 ja TA-22
         Aru saada tööpõhimõtetest
         Analüüsi põhjal wireframe koostamine ja testimine
         Rakenduse käivitamine lokaalses arenduskeskonnas
         Testimine
-    Kursused - TAK-20 ja TA-21
+    Kursused - TAK-21
         Esimese kursuse juhendamine ja abistamine
         Tarkvaraarenduse meeskonna tööprotsessi tutvustus esmakursuslatele
         HTML, CSS, JavaScript
