@@ -42,7 +42,7 @@ U:lesande püstitus
     Luua Ametikoolile portfoolio (Vähemalt 3 lehte):
         * Tutvustus.
         * Faktid.
-        * Galerii (Slider/Popup/ or something else).
+        * Galerii (Slider/Popup).
         * Kontaktid (Vabalt valitud 10 töötajat).
         * Google maps location (Google maps API).
         * Responsive!
@@ -62,6 +62,7 @@ Rollid
         Aru saada tööpõhimõtetest
         Analüüsi põhjal wireframe koostamine ja testimine
         Rakenduse käivitamine lokaalses arenduskeskonnas
+         HTML, CSS
         Testimine
     Kursused - TAK-21
         Esimesete kursuse juhendamine ja abistamine
