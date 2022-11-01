@@ -1,1 +1,80 @@
 # 2022-23-PROJEKT-nr-2-Ametikool-100
+
+Eesmärgid:
+
+    tööprotsess/töövõted/töövahendid
+    tiimitöö
+    analüüs/planeerimine
+    GitHub
+    HTML/CSS/JS
+
+#Tiimid
+
+    Sisukord
+
+        Ajakava
+        Ülesande püstitus
+        Rollid
+        Esitlus
+
+
+Ajakava
+
+    K 12:45 - ...
+        12:45 Ülesande tutvustus ruumis K208
+        Tiimide moodustamine, ruumi valimine, tutvumine, suhtluskanalite ja töövahendite kokku leppimine ja seadistamine
+        Tiim loob repo, repo link saada Slackis Andrusele
+        Tööülesande valimine, ülesande analüüs ja planeerimine, wireframe koostamine jne
+        Töö käib
+
+    N 8:30 - ...
+        Töö käib
+
+    R 8:30 - ...
+        9:00 on repo main harus veavaba versioon, mida on võimalik testida
+        Töötava lahenduse kokku panek ja viimistlemine, failide upitamine, README faili koostamine, esitluse planeerimine
+        Töötava rakenduse link enne esitluste algust Andrusele Slacki
+        12:45 Esitlused K208
+
+
+U:lesande püstitus
+
+    Luua hariduslik rakendus või mäng:
+        Maailma riikide lippude õppimine
+        Kella õppimine
+        Tähtede ja numbrite õppimine
+        Morse keele õppimine
+
+
+Rollid
+
+    Kogu meeskond
+        Idee välja töötamine ja analüüs
+        Dokumenteerimine ja projekti haldamine
+        Testimine
+    Kursus - TA-22
+        Aru saada tööpõhimõtetest
+        Analüüsi põhjal wireframe koostamine ja testimine
+        Rakenduse käivitamine lokaalses arenduskeskonnas
+        Testimine
+    Kursused - TAK-20 ja TA-21
+        Esimese kursuse juhendamine ja abistamine
+        Tarkvaraarenduse meeskonna tööprotsessi tutvustus esmakursuslatele
+        HTML, CSS, JavaScript
+
+
+Esitlus
+
+    Aega 10 minutit
+        Readme
+        Iga tiimi liige peab sõna võtma
+    Slaidide asemel Readme, mis sisaldab
+        Tiimi liikmete nimed
+        Lühikokkuvõte töökäigust
+        Töövahendite loetelu
+        Kas aja planeerimine vastas tegelikussele
+        Iga tiimi liikme nime ja vastuseid kolmele küsimusele (oluline on analüüsida enda tegevust selle projekti jooksul)
+            Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+            Üks pehme oskus, mida õppisin ja endas arendasin
+            Üks tehniline oskus, mida õppisin ja endas arendasin
+    Esitlus tuleb üle kanda ka MS Teams's
