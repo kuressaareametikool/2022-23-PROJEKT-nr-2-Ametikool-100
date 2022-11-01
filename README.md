@@ -34,7 +34,7 @@ Ajakava
         9:00 on repo main harus veavaba versioon, mida on võimalik testida
         Töötava lahenduse kokku panek ja viimistlemine, failide upitamine, README faili koostamine, esitluse planeerimine
         Töötava rakenduse link enne esitluste algust Andrusele Slacki
-        10:00 Esitlused K208
+        10:15 Esitlused K208
 
 
 U:lesande püstitus
@@ -45,6 +45,7 @@ U:lesande püstitus
         * Galerii (Slider/Popup/ or something else).
         * Kontaktid (Vabalt valitud 10 töötajat).
         * Google maps location (Google maps API).
+        * Responsive!
         
         *Figma + toimiv proto.
         *Github ReadMe/Wiki.
@@ -55,15 +56,15 @@ Rollid
 
     Kogu meeskond
         Idee välja töötamine ja analüüs
-        Dokumenteerimine ja projekti haldamine
-        Testimine
+        Dokumenteerimine , Issude koostamine ja projekti haldamine
+        Testimine.
     Kursus - TAk-22 ja TA-22
         Aru saada tööpõhimõtetest
         Analüüsi põhjal wireframe koostamine ja testimine
         Rakenduse käivitamine lokaalses arenduskeskonnas
         Testimine
     Kursused - TAK-21
-        Esimese kursuse juhendamine ja abistamine
+        Esimesete kursuse juhendamine ja abistamine
         Tarkvaraarenduse meeskonna tööprotsessi tutvustus esmakursuslatele
         HTML, CSS, JavaScript
 
@@ -82,4 +83,3 @@ Esitlus
             Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
             Üks pehme oskus, mida õppisin ja endas arendasin
             Üks tehniline oskus, mida õppisin ja endas arendasin
-    Esitlus tuleb üle kanda ka MS Teams's
