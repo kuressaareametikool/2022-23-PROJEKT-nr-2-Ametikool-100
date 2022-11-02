@@ -50,6 +50,7 @@ U:lesande püstitus
         *Figma + toimiv proto.
         *Github ReadMe/Wiki.
         *Issue Board
+        *Tiimi analüüs.
 
 
 Rollid
